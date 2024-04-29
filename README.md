@@ -1,14 +1,7 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Francesco.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+<p>Starting from 2024, I dedicate myself to programming as a Junior Full-stack Developer, focusing on the creation of websites and web applications. I have worked with my development team to create projects using the Agile methodology. Among the skills acquired, I mention JavaScript, HTML, CSS, Git, and React as the main ones used during my study path. I am currently seeking a position where I can apply my acquired knowledge to the fullest and continue to learn new skills.</p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -42,4 +35,4 @@
 <a href="[https://www.linkedin.com/in/furanchesuko/](https://www.linkedin.com/in/francesco-balleri-a69a331b8/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Francesco%20Balleri%20-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/furanchesuko)
+⭐️ From [Francesco](https://github.com/furanchesuko)
