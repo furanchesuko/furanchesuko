@@ -39,7 +39,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/francesco-balleri-a69a331b8/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="[https://www.linkedin.com/in/furanchesuko/](https://www.linkedin.com/in/francesco-balleri-a69a331b8/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Francesco%20Balleri%20-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/furanchesuko)
