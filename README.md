@@ -22,7 +22,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=furanchesuko &show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
-</p>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
