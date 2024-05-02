@@ -1,37 +1,28 @@
-<h2> Hey there! I'm Francesco.</h2>
+### Hi there! I'm Francesco 👋
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-<p>Starting from 2024, I dedicate myself to programming as a Junior Full-stack Developer, focusing on the creation of websites and web applications. I have worked with my development team to create projects using the Agile methodology. Among the skills acquired, I mention JavaScript, HTML, CSS, Git, and React as the main ones used during my study path. I am currently seeking a position where I can apply my acquired knowledge to the fullest and continue to learn new skills.</p>
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- 🛢 &nbsp;
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🔭 I’m currently a Full-stack student at Develhope.
+- ⚙️ I use daily: `.react`, `.js`, `.html`, `.css`.
+- 📚 I’m currently learning full-stack web development using React, NodeJS and Javascript.
+- 👯 I’m looking for a software development work. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/francesco-balleri-a69a331b8/)
 
-<br/>
+### Tech & Tools Preference
 
-<a href="https://github.com/furanchesuko">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furanchesuko&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furanchesuko&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 <p align="center">
-<a href="(https://www.linkedin.com/in/francesco-balleri-a69a331b8/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Francesco%20Balleri%20-blue?style=flat-square&logo=linkedin"></a>
+  <img src ="https://github-readme-stats.vercel.app/api?username=furanchesuko &show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
 </p>
 
-⭐️ From [Francesco](https://github.com/furanchesuko)
