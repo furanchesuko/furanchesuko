@@ -5,7 +5,7 @@
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a Full-stack student at Develhope.
-- ⚙️ I use daily: `.react`, `.js`, `.html`, `.css`.
+- ⚙️ I use daily: `React, `.js`, `.html`, `.css`.
 - 📚 I’m currently learning full-stack web development using React, NodeJS and Javascript.
 - 👯 I’m looking for a software development work. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/francesco-balleri-a69a331b8/)
