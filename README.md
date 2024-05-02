@@ -2,9 +2,9 @@
 
 <img width="35%" align="right" alt="Github" src="https://64.media.tumblr.com/87f601dd90972efe877e54103b2d388c/tumblr_p96ksp0m8u1wugj9io1_400.gif" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+Starting from 2024, I dedicated myself to programming as a Junior Full-stack Developer, focusing on creating websites and web applications. I worked with my development team using the Agile methodology to create projects.
 
-- 🔭 I’m currently a Full-stack student at Develhope.
+- 🔭 I’m currently a <b>Full-stack</b> student at <b>Develhope</b>.
 - ⚙️ I use daily: `React`, `.js`, `.html`, `.css`.
 - 📚 I’m currently learning full-stack web development using <b>React</b>, <b>NodeJS</b> and <b>Javascript</b>.
 - 👯 I’m looking for a software development work. 
