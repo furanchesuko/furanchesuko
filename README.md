@@ -7,7 +7,7 @@ Starting from 2024, I dedicated myself to programming as a <b>Junior Full-stack 
 - 🔭 I’m currently a <b>Full-stack</b> student at <b>Develhope</b>.
 - ⚙️ I use daily: `React`, `.js`, `.html`, `.css`.
 - 📚 I’m currently learning full-stack web development using <b>React</b>, <b>NodeJS</b> and <b>Javascript</b>.
-- 👯 I’m looking for a software development work. 
+- 🔍 I’m looking for a software development work. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/francesco-balleri-a69a331b8/)
 
 ---
